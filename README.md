@@ -44,6 +44,8 @@ You can access the start page (index.html) by opening your browser to [http://lo
 
 2. Install the package dependencies by running the following command: npm install
 
-By default, React app will run on (http://localhost:3000). Since our Express server is running on the same port, you might want to run the React application on a different port.
+3. Run by using the command: npm start
+
+If you followed all these commands everything should be up and running!
 
 
